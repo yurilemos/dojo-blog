@@ -1,24 +1,33 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "welcome to the new blog",
-            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non veritatis beatae ducimus temporibus, aliquam laborum natus a. Aperiam iure quasi quam adipisci voluptatibus sapiente ab ad quidem vero amet. Quam.",
-            "tags": [
-                "webdev",
-                "coding",
-                "news"
-            ]
-        },
-        {
-            "id": 2,
-            "title": "top 5 CSS tips",
-            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non veritatis beatae ducimus temporibus, aliquam laborum natus a. Aperiam iure quasi quam adipisci voluptatibus sapiente ab ad quidem vero amet. Quam.",
-            "tags": [
-                "css",
-                "webdev",
-                "coding"
-            ]
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non veritatis beatae ducimus temporibus, aliquam laborum natus a. Aperiam iure quasi quam adipisci voluptatibus sapiente ab ad quidem vero amet. Quam.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non veritatis beatae ducimus temporibus, aliquam laborum natus a. Aperiam iure quasi quam adipisci voluptatibus sapiente ab ad quidem vero amet. Quam.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "fgrdg",
+      "body": "grwgfr",
+      "tags": [
+        "news",
+        "dev"
+      ],
+      "id": 3
+    }
+  ]
 }
